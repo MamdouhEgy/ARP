@@ -1,6 +1,6 @@
 #  DDoS Detection in SDN using Entropy-Based Monitoring
 
-This project explores an **entropy-based method** for early detection and mitigation of **DDoS attacks** in Software-Defined Networks (SDN). Implemented using **Mininet**, **POX controller**, and custom packet generation via **Scapy**, it evaluates statistical randomness in destination IPs to identify abnormal behavior.
+This project (done during the M.Sc.) explores an **entropy-based method** for early detection and mitigation of **DDoS attacks** in Software-Defined Networks (SDN). Implemented using **Mininet**, **POX controller**, and custom packet generation via **Scapy**, it evaluates statistical randomness in destination IPs to identify abnormal behavior.
 
 ---
 
