@@ -32,7 +32,7 @@ This project explores an **entropy-based method** for early detection and mitiga
 
 ##  Components
 
-- `Topology (1).py`: Fat-tree topology with 80 hosts and dual controllers  
+- `Topology.py`: Fat-tree topology with 80 hosts and dual controllers  
 - `entropy.py`: Entropy-based anomaly detector integrated with POX  
 - `Mamdouh Muhammad ARP Report.pdf`: Technical report  
 - `Final Presentation - Mamdouh Muhammad - ARP.pptx`: Summary slides
